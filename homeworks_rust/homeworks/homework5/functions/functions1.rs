@@ -5,5 +5,7 @@
 
 
 fn main() {
-    main();
+    call_me();
+}
+fn call_me(){
 }
